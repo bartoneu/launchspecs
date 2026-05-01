@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (if any tooling is added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if any tooling is added later)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Logs and env
+*.log
+*.env
+.env.local
+.env.*.local
+
+# Working / scratch directories
+_unzipped/
+_scratch/
+_drafts/
+.tmp/
+
+# OS-generated files
+.fseventsd/
+.Spotlight-V100/
+.Trashes/
